@@ -17,7 +17,6 @@ const Part = (props) => {
 }
 
 const Content = () => {
-
   return (
     <div>
       <Part part={part1} exercise={exercises1} />
